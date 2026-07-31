@@ -22,3 +22,22 @@ Store uploaded PDFs
 Extract text from PDFs
 Handle large documents
 Clean and preprocess extracted text
+4. AI Course Generation
+
+After uploading a PDF, automatically generate:
+
+Course title
+Course description
+Modules/chapters
+Lessons
+Learning objectives
+Summary
+5. Course Viewer
+
+A clean UI where users can:
+
+Browse modules
+Read lessons
+Navigate between lessons
+View generated content
+6. Learning Progress
