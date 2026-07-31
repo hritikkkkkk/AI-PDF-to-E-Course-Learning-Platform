@@ -6,3 +6,19 @@ State: Zustand
 API: Axios + React Query
 AI: Gemini/OpenAI-compatible APIs
 Authentication: User login with persistent progress
+
+//////////////////////////////////////////////////////////////
+
+Mandatory Features
+1. User Authentication
+Register/Login
+Secure authentication
+Each user has their own courses and progress
+2. PDF Upload
+Upload one or more PDF files
+Validate file type and size
+Store uploaded PDFs
+3. PDF Text Extraction
+Extract text from PDFs
+Handle large documents
+Clean and preprocess extracted text
