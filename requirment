@@ -1,7 +1,8 @@
-laptop
-vscode/anitgravity
-sunao
-kya
-okay
-internet
-commit
+Tech Stack
+Frontend: Next.js (App Router) + TypeScript + Tailwind CSS + shadcn/ui
+Backend: FastAPI
+Database: SQLite initially (course.db)
+State: Zustand
+API: Axios + React Query
+AI: Gemini/OpenAI-compatible APIs
+Authentication: User login with persistent progress
