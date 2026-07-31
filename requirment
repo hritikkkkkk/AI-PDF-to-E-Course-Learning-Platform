@@ -41,3 +41,22 @@ Read lessons
 Navigate between lessons
 View generated content
 6. Learning Progress
+Mark lessons as completed
+Save progress in the database
+Resume later from where the user left off
+Show completion percentage
+7. AI Chatbot (RAG)
+
+The chatbot should answer questions only from the uploaded PDF/course by:
+
+Retrieving relevant document chunks
+Sending retrieved context to the LLM
+Providing contextual answers instead of hallucinating
+8. Quiz Generation
+
+Generate quizzes from the course:
+
+Multiple Choice Questions
+Correct answers
+Optional explanations
+Score calculation
