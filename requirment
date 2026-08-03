@@ -53,7 +53,7 @@ Retrieving relevant document chunks
 Sending retrieved context to the LLM
 Providing contextual answers instead of hallucinating
 8. Quiz Generation
-
+ ai prompt choice 
 Generate quizzes from the course:
 
 Multiple Choice Questions
