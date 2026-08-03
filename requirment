@@ -55,7 +55,7 @@ Providing contextual answers instead of hallucinating
 8. Quiz Generation
  ai prompt choice 
 Generate quizzes from the course:
-
+based on context
 Multiple Choice Questions
 Correct answers
 Optional explanations
